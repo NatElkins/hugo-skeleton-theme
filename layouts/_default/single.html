@@ -1,0 +1,11 @@
+{{ template "theme/partials/header.html" . }}
+{{ template "theme/partials/navbar.html" . }}
+<div class="title row">
+    <div class="twelve columns center">
+        <h4>{{ .Title }}</h4>
+    </div>
+</div>
+<div class="content">
+    {{ .Content }}
+</div>
+{{ template "theme/partials/footer.html" . }}

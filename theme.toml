@@ -1,0 +1,12 @@
+name = "skeleton"
+license = "MIT"
+licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE.md"
+description = "A simple, minimalstic theme based off of Skeleton.css"
+homepage = "http://siteforthistheme.com/"
+tags = ["skeleton.css", "skeleton", "minimal"]
+features = ["responsive", "small", "fast"]
+min_version = 0.13
+
+[author]
+  name = "Nat Elkins"
+  homepage = "http://natelkins.com"
